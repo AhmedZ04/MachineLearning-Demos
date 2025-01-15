@@ -6,7 +6,7 @@ This repository isn't a tutorial collection; rather, it's a documentation of my 
 
 ## Topics covered
 
-1. [Mathematical Foundation](#introduction)
+1. Mathematical Foundation
     - What is Machine Learning?
     - Supervised vs. Unsupervised vs. Reinforcement Learning
     - Offline vs. Online Learning
@@ -19,25 +19,37 @@ This repository isn't a tutorial collection; rather, it's a documentation of my 
     - Defining Distributions
     - Marginal and Conditional Distributions
     - Expectation and Variance
-2. [Supervised Learning](#supervised-learning)
+2. Supervised Learning
     - Defining the Learning Objective
     - Regression and Classification
     - Empirical Risk Minimization
-3. [Estimation](#estimation)
+3. Estimation
     - Estimation as a mathematical concep
     - Applications in ML contexts
     - Estimating the Expected Loss of a Predictor
-4. [Optimization](#optimization)
+4. Optimization
     - Optimization Basics
     - Continuous Optimization and Gradient Descent
     - Linear Regression Optimization
-5. [Evaluating Predictors](#evaluating-predictors)
+5. Evaluating Predictors
     - Loss Estimation, Bias-Variance Tradeoff
     - Regularization and Error Summary
-6. [Maximum Likelihood and Maximum A Posteriori Estimation](#maximum-likelihood)
+6. Maximum Likelihood and Maximum A Posteriori Estimation
     - MLE and MAP Basics and Learners
-7. [Classification](#classification)
+7. Classification
     - Binary and Multiclass Classification
     - Logistic Regression and Softmax Regression
+8. Neural Networks
+    - Neural Networks: A Special Case
+    - Neural Networks: The General Case
+    - ERM with Neural Networks
+    - Neural Networks Learning Better Features
+    - Softmax as a Neural Network
+9. Language Models
+    - Representing Tokens as Vectors
+    - Token Embeddings
+    - Predicting the Next Token
+    - Creating a Dataset
+    - ERM for Language Models
 
 ---
